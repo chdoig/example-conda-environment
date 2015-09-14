@@ -2,6 +2,8 @@ name: example-environment
 
 dependencies:
   - python=3.4
+  - seaborn
+  - scipy
   - numpy
   - toolz
   - matplotlib
